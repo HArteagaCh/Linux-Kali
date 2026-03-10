@@ -12,7 +12,12 @@ ctrl + c --> fin del procaso
 ctrl + A --> ir al inicio d ela linea
 ctrl + E --> ir al final de la linea
 ctrl + k --> borrar del puntero hacia adelante
+ctrl + shift  +  c -->copiar
+ctrl + shift  +  v --> pegar
 -----
 etc: configuracion del sisteama servicios, usuarios y contraseñas
 var: archivos variables, logs, registros, cache
+bin: tiene los binarios del sistema 
+usr --> programs librerias. aplicaciones
+
 

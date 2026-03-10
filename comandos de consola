@@ -1,0 +1,15 @@
+pwd --> conocer la ubicacion del directorio actual
+ls  --> listar
+cd  --> moverse entre directorios
+cat --> ver el contenido de un archivo de texto
+file --> identificar el tipo de archivo
+sudo --> ejecutar como root 
+su --> cambiar de usuario
+man --> ver el manual
+mkdir --> crera un directorio
+ctrl +  l --> limpiar la pantalla
+ctrl + c --> fin del procaso
+ctrl + A --> ir al inicio d ela linea
+ctrl + E --> ir al final de la linea
+ctrl + k --> borrar del puntero hacia adelante
+

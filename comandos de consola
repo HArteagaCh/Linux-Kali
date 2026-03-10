@@ -19,5 +19,5 @@ etc: configuracion del sisteama servicios, usuarios y contraseñas
 var: archivos variables, logs, registros, cache
 bin: tiene los binarios del sistema 
 usr --> programs librerias. aplicaciones
-
+temp: arcivos te,porañes (se eliminan cuando se reinicia el sistema)
 
